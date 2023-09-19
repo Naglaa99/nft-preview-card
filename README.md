@@ -16,7 +16,7 @@ Users should be able to:
 ![](./images/active.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:  https://naglaa99.github.io/nft-preview-card/
 
 
 ### Built with
